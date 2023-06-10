@@ -1,0 +1,8 @@
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\obj\Debug\CGO_ThucHanh1.csproj.AssemblyReference.cache
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\obj\Debug\CGO_ThucHanh1.csproj.SuggestedBindingRedirects.cache
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\obj\Debug\CGO_ThucHanh1.csproj.CoreCompileInputs.cache
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\bin\Debug\CGO_ThucHanh1.exe.config
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\bin\Debug\CGO_ThucHanh1.exe
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\bin\Debug\CGO_ThucHanh1.pdb
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\obj\Debug\CGO_ThucHanh1.exe
+D:\CodeGym\visual studio\CGO_ThucHanh1\CGO_ThucHanh1\obj\Debug\CGO_ThucHanh1.pdb
